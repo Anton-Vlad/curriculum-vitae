@@ -67,24 +67,25 @@ Web Developer with 7+ years of experience working on a variety of projects using
 ## **Past Projects**
 
 ### **Websites** - wordpress custom themes
-**Bikmo**: [Link](https://bikmo.com/)  A multi-tenant presentation website, for bike insurance and services
-**INSMC**: [Link](https://www.insmc.ro/)  An website / application to manages a state hospital appointments, It uses custom wordpress entities and structure.
-**TraficMedia**: [Link](https://traficmedia.ro/)  News website, that also has user subscriptions and phisical magazines.
-**Waydev Website** [Link](https://waydev.co/) 
+- **Bikmo**: [Link](https://bikmo.com/)  A multi-tenant presentation website, for bike insurance and services
+- **INSMC**: [Link](https://www.insmc.ro/)  An website / application to manages a state hospital appointments, It uses custom wordpress entities and structure.
+- **TraficMedia**: [Link](https://traficmedia.ro/)  News website, that also has user subscriptions and phisical magazines.
+- **Waydev Website** [Link](https://waydev.co/) 
 
 ### **ERP Platform**
-**Klarwin**: (2019) [link](https://klarwin.com/) Built an application to manage the in-house proccess of maintaining water cleaning stations. It also included a mobile app (react native) to help engineers write detailed reports on-site. The web application contained a dashboard view with stats about all the stations  as well as individual station view and alerts. It was not intended for large scale use. 
-**Dunwell**: [link](https://dunwell.eu/) Built an application to manage industrial warehouses and properties. Similar to airbnb, but at a much lower scale and for industrial users only. THe application was meant to be use only in-house, by the company employees.
+- **Klarwin**: (2019) [link](https://klarwin.com/) Built an application to manage the in-house proccess of maintaining water cleaning stations. It also included a mobile app (react native) to help engineers write detailed reports on-site. The web application contained a dashboard view with stats about all the stations  as well as individual station view and alerts. It was not intended for large scale use. 
+- **Dunwell**: [link](https://dunwell.eu/) Built an application to manage industrial warehouses and properties. Similar to airbnb, but at a much lower scale and for industrial users only. THe application was meant to be use only in-house, by the company employees.
 
 ### **NodeJS apps**
-**Binance Bot**: Built a NodeJs bot application that used the Binance api to make automated trades. Implemented features like user authentication, setting up configutarions (amounts, max/min), orders & symbol tracking, small heuristic to decide when to buy and when to sell.
-**Slack Bot**: Built a NodeJs slack bot that uses the Slack web api and Redis queues to facilitate communication between waydev main app and integrated slack workspaces. Its main purpose was to do async developer surveys. The manager can create the survey from the main app, and set it to trigger programmatically over slack. The bot would then send each individual slack member a chat with the survey questions, and collect the responses to send them back in the main app.
+- **Binance Bot**: Built a NodeJs bot application that used the Binance api to make automated trades. Implemented features like user authentication, setting up configutarions (amounts, max/min), orders & symbol tracking, small heuristic to decide when to buy and when to sell.
+- **Slack Bot**: Built a NodeJs slack bot that uses the Slack web api and Redis queues to facilitate communication between waydev main app and integrated slack workspaces. Its main purpose was to do async developer surveys. The manager can create the survey from the main app, and set it to trigger programmatically over slack. The bot would then send each individual slack member a chat with the survey questions, and collect the responses to send them back in the main app.
 
 
 ### **Other projects**
-**Stonefeet E-commerce**: [link](https://stonefeet.ro) Built the first iteration of their e-commerce platform in WooCommerce
-**Confidas platform** [link](https://www.confidas.ro/) : Core developer 
-Can't remember all of them, but there are more...
+- **Stonefeet E-commerce**: [link](https://stonefeet.ro) Built the first iteration of their e-commerce platform in WooCommerce
+- **Confidas platform** [link](https://www.confidas.ro/) : Core developer
+- 
+Can't remember all of them, but there were more...
 
 
 ---
